@@ -16,13 +16,13 @@ I'm building cool projects, sharing what I learn, and growing as a creator in pu
 
 ### 🛠️ Tech I Use
 - Godot
-- Python / Node.js  
+- Python
 - Git & GitHub
 
 ---
 
 ### 🌐 Find Me Online
-- 🎥 YouTube: [AriaelBlood](https://youtube.com/@ariaelblood?si=JmHQlMRTi_N0Q0_9)
+- 🎥 YouTube: [AriaelBlood](https://youtube.com/@ashnveyl?si=l1h2Ki3kgBo9Lo9V)
 <!-- - 🐦 Twitter: [@yourhandle]
 - 📸 Instagram: [@yourhandle] -->
 - 💌 Email: [ariaelblood@gmail.com]
